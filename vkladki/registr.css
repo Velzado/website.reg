@@ -1,0 +1,33 @@
+.content-1 {
+  background: rgb(233, 121, 236);
+  border: 2px solid rgb(157, 157, 240);
+  border-radius: 20px;
+  max-width: 100%;
+  height: 220px;
+  float: center;
+  margin: 120px;
+}
+.pass {
+  margin: 10px;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+p {
+  text-align: center;
+  font-size: 13px;
+}
+h3 {
+  background-color: gray;
+  height: 30px;
+  border-radius: 20px;
+  text-align: center;
+}
+.inv {
+  color: blue;
+  text-decoration: none;
+}

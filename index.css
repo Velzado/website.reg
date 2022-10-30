@@ -1,0 +1,48 @@
+header {
+  background-color: black;
+  display: flex;
+  padding: 5px;
+  max-width: 100%;
+  align-items: center;
+}
+body {
+  background: rgb(161, 70, 70);
+  margin: 0%;
+  text-align: center;
+}
+.logotip {
+  width: 80px;
+  height: 70px;
+  margin: 12px 0px 12px 100px;
+}
+.vklad {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  font-size: 20px;
+  word-spacing: 10px;
+  padding-left: 30px;
+}
+a {
+  color: gray;
+  text-decoration: none;
+}
+.vklad a:hover {
+  color: white;
+}
+.search {
+  margin: 21px 10px;
+}
+input {
+  width: 150px;
+  background: rgb(226, 225, 225);
+}
+.border1 {
+  border: 1px solid green;
+}
+.right {
+  float: right;
+  padding: 0px 20px;
+}
+.left {
+  float: left;
+}
